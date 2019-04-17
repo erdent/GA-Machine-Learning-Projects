@@ -2,7 +2,8 @@
 
 In  this repository, I uploaded projects I went through while at General Assembly's 2.5 months of Data Science bootcamp. I added my own projects and data representation to practice the skills I acquired through the bootcamp.
 
-Topics covered during the bootcamp: \n
+Topics covered during the bootcamp:
+
 Unit 1: Python Syntax
 Unit 1: Exploratory Data Analysis
 Unit 2: Experiments/Hypothesis Test
