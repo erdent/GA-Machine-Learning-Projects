@@ -3,22 +3,23 @@
 In  this repository, I uploaded projects I went through while at General Assembly's 2.5 months of Data Science bootcamp. I added my own projects and data representation to practice the skills I acquired through the bootcamp.
 
 Topics covered during the bootcamp:
-| Unit # | Topic |
+
+| Unit | Topic |
 | --- | --- |
-| 1 | Python Syntax |
-| | Exploratory Data Analysis |
-| 2 | Experiments/Hypothesis Test |
-| | Data Visualization with pandas |
-| | Statistical learning with python |
-| 3 | Linear Regression/Lasso/Ridge/Polynomial |
-| | Bias and variance - Train/Test/Split |
-| | KNN Classification |
-| | Logistic regression |
-| | Decision Tree |
-| | Random Forests |
-| 4 | KMeans Clustering |
-| | Hierarchial Clustering |
-| | Data Wrangling/API |
-| | Time Series |
+| 1.1 | Python Syntax |
+| 1.2 | Exploratory Data Analysis |
+| 2.1 | Experiments/Hypothesis Test |
+| 2.2 | Data Visualization with pandas |
+| 2.3 | Statistical learning with python |
+| 3.1 | Linear Regression/Lasso/Ridge/Polynomial |
+| 3.2 | Bias and variance - Train/Test/Split |
+| 3.3 | KNN Classification |
+| 3.4 | Logistic regression |
+| 3.5 | Decision Tree |
+| 3.6 | Random Forests |
+| 4.1 | KMeans Clustering |
+| 4.2 | Hierarchial Clustering |
+| 4.3 | Data Wrangling/API |
+| 4.4 | Time Series |
 
 ---
