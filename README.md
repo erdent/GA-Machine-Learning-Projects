@@ -1,8 +1,9 @@
-# GA Machine Learning Projects
+#GA Machine Learning Projects
 
-In  this repository, I uploaded projects I went through while at General Assembly's 2.5 months of Data Science bootcamp. I added my own projects and data representation to practice the skills I acquired through the bootcamp.
+In  this repository, I uploaded projects I worked on while at General Assembly's 2.5 months of Data Science bootcamp. 
+I also added my own projects and data representation to practice the skills I acquired.
 
-Topics covered during the bootcamp:
+Topics covered in this project file are:
 
 | Unit | Topic |
 | --- | --- |
