@@ -1,6 +1,6 @@
 # GA Machine Learning Projects
 
-In  this repository, I uploaded projects I worked on while at General Assembly's 2.5 months of Data Science bootcamp. Although there is lot to learn in ML. GA Bootcamp was very well designed data science bootcamp where I learned many useful Python libraries. In this repository, I wanted to share which topics were covered and what we worked on.
+In  this repository, I uploaded projects I worked on while at General Assembly's 2.5 months of Data Science bootcamp. Although there is lot to learn in ML, GA Bootcamp was very well designed data science bootcamp where I learned many useful Python libraries. In this repository, I wanted to share which topics were covered and what we worked on.
 
 ---
 Topics covered in this project file are:
